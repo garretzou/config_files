@@ -1,0 +1,12 @@
+[user]
+	email = garretzou@gmail.com
+	name = garret zou
+[color]
+    ui = auto
+[core]
+    editor = vim
+[sendemail]
+    smtpencryption = tls
+    smtpserver = smtp.126.com
+    smtpuser = garretzou@126.com
+    smtpserverport = 25 
