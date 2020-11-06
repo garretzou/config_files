@@ -1,0 +1,15 @@
+These are the first VCSs created to manage source code.
+They worked by tracking the changes made to files in a single database that was stored locally.
+This means that all the changes were kept in a single computer and if there were problems, all the work were lost. 
+This also means that working with a team was out of the question.
+
+One of the most popular local VCSs was Source Code Control System or SCCS, which was free but closed source.
+Developed by AT&T, it was wildly used in the 1970s until Revision Control System or RCS was released.
+RCS became more popular than SCCS because it was Open Source, cross-platform, and much more effective.
+Released in 1982, RCS is currently maintained by the GNU Project.
+One of the drawbacks of these two local VCSs was that they only worked on a file at a time; there was no way to track an entire project with them.
+
+To help you visualize how it works, here’s Figure 1-5 which shows an illustration of a simple local VCS.
+Figure 1-5.How a local VCS worksAs you can see in Figure 1-5, everything is on the user’s computer, and only one file is tracked.
+The versioning is stored in a database managed by the local VCS.
+
