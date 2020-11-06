@@ -1,0 +1,7 @@
+From bf3de087c25d1c2840138664f7038349b0a80a19 Mon Sep 17 00:00:00 2001
+From: wangkangkang <wangkangkang@bbktel.com>
+Date: Wed, 13 Nov 2019 06:19:52 +0800
+Subject: [PATCH] TD2002:Enable ASAN for CameraProvider
+
+Change-Id: Ie3df7e75f9fe615472635fed69a1d3ae4dbd94cb
+---
